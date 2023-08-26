@@ -4,7 +4,7 @@ I'm Dave and I make things from software.
 
 ### GitHub Actions Essentials
 
-![GitHub Actions Essentials](https://actions.davecross.co.uk/img/book-cover.png "GitHub Actions Essentials")
+![GitHub Actions Essentials](https://actions.davecross.co.uk/img/book-cover-sm.png "GitHub Actions Essentials")
 
 [More details](https://actions.davecross.co.uk/)
 
